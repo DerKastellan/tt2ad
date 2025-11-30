@@ -27,7 +27,7 @@ import re
 import shutil
 import sys
 
-# DISCLAIMER: The names "Toontrack" and "Addictive Drums" are trademarks of their respective owners, which are in no way
+# DISCLAIMER: The names "Toontrack", "EZDrummer", and "Addictive Drums" are trademarks of their respective owners, which are in no way
 # associated or affiliated with the creation or distribution of this script. This script can be used by an owner of Toontrack
 # MIDI products to use on their own installed MIDI files at their own discretion.
 
